@@ -20,12 +20,6 @@
 
 ---
 
-<a href="https://github.com/pbk1787/github-stats-transparent">
-
-![](https://raw.githubusercontent.com/pbk1787/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/pbk1787/github-stats-transparent/output/generated/languages.svg)
-
-</a>
 
 <!--
 **pbk1787/pbk1787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
