@@ -20,7 +20,7 @@
 
 ---
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
+<a href="https://github.com/pbk1787/github-stats-transparent">
 
 ![](https://raw.githubusercontent.com/pbk1787/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/pbk1787/github-stats-transparent/output/generated/languages.svg)
